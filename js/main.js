@@ -7,5 +7,7 @@ function dessiner_pyramide(largeur_base) {
     let largeur = 50
 
     // La fonction triangle() est à coder
+
+    x = x * 2000
     triangle(x,y,largeur)
 }
